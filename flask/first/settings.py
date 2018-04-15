@@ -1,0 +1,1 @@
+DB_URI = 'mysql://root:kevin@mysql@localhost:3306/flask'
